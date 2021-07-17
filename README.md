@@ -2,7 +2,7 @@
 This is a program implementing and proving my psuedocode for Q7.2 on the midterm. My pseudocode is implemented line-by-line in the second_smallest() method, which is contained in the MidtermRegradeMain class.
 
 How to Run This Program:
-In IntelliJ, just run MidtermRegradeTests.java. This contains a number of tests; each test creates a new Binary Search Tree to represent an edge case, and tests my algorithm
+In IntelliJ, just run MidtermRegradeTests.java (I do this by right-clicking MidtermRegradeTests.java and selecting Run). This contains a number of tests; each test creates a new Binary Search Tree to represent an edge case, and tests my algorithm
 against that tree.
 
 High Level Program Design:
